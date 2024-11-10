@@ -21,7 +21,7 @@
 
 1. Скачайте и запустите скрипт `install.sh`:
    ``` bash
-   wget -O install.sh https://your-script-location.com/install.sh
+   wget -O install.sh https://raw.githubusercontent.com/Doomer94/mihomo-install/main/install.sh
    chmod +x install.sh
    sh./install.sh
    ```
